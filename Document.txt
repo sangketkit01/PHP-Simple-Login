@@ -47,4 +47,4 @@ Server : Super global variable that contains headers , paths and scripts locatio
          Show nearly everything you need to know about the current web page environment.
 
 hashing : Transforming sensitive data (password) into letters , numbers and/or symbols via a mathematics process. (similar to encryption).
-           Hides the original data from 3rd parties.
+           Hides the original data from 3rd parties.        
